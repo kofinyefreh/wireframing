@@ -22,4 +22,14 @@ Low-fidelity wireframes are simple, rough sketches or digital layouts that outli
 High-fidelity wireframes are more detailed and refined versions, often closer to the final design, including more specific layout and design elements. This is an enhanced form of the low-fidelity wireframes
 
 ## Explanation of What Kind of Wireframe Being Used
-The wireframe in there for the AirBnb clone is classified as a high fidelity wireframe. This is becuase it contains detailed, specific layouts and design elements ready to be built. Also, the wireframes are production ready anc closer to a final design. It can be handed over to developers to start working on it..
+The wireframe in there for the AirBnb clone is classified as a high fidelity wireframe. This is becuase it contains detailed, specific layouts and design elements ready to be built. Also, the wireframes are production ready anc closer to a final design. It can be handed over to developers to start working on it.
+
+## Wireframing Tools
+There are numerous wireframing tools out there but the recommentded one is Figma. A powerful, web-based design and prototyping tool widely used for creating low- and high-fidelity wireframes.
+### Key Features 
+- It is web-based and cross-platform. This means it works perfectly on any other OS.
+- Real-Time Collaboration: Multiple users can work on the same wireframe simultaneously—great for team brainstorming and feedback.
+- Design Libraries & Plugins: Access to wireframing kits and community-made plugins to speed up design workflows.
+- Version History: Keeps track of changes so you can revert or review past edits easily.
+- Design Libraries & Plugins: Access to wireframing kits and community-made plugins to speed up design workflows.
+
