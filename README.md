@@ -15,5 +15,9 @@ A wireframe must contain the follwing key elements
 - **Content Placement:** Indicates where text, images, and other content will be positioned.
 - **Functionality:** Outlines key functionalities and interactions.
 
-## Types of Repositories
+## Types of Wireframes
 ### Low-Fidelity
+Low-Fidelity wireframes are simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+### High-Fidelity
+High-fidelity wireframes are more detailed and refined versions, often closer to the final design, including more specific layout and design elements. This is an enhanced form of the low-fidelity wireframes
+
