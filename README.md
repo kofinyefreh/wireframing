@@ -21,3 +21,5 @@ Low-fidelity wireframes are simple, rough sketches or digital layouts that outli
 ### High-Fidelity
 High-fidelity wireframes are more detailed and refined versions, often closer to the final design, including more specific layout and design elements. This is an enhanced form of the low-fidelity wireframes
 
+## Explanation of What Kind of Wireframe Being Used
+The wireframe in there for the AirBnb clone is classified as a high fidelity wireframe. This is becuase it contains detailed, specific layouts and design elements ready to be built. Also, the wireframes are production ready anc closer to a final design. It can be handed over to developers to start working on it..
