@@ -33,3 +33,14 @@ There are numerous wireframing tools out there but the recommentded one is Figma
 - Version History: Keeps track of changes so you can revert or review past edits easily.
 - Design Libraries & Plugins: Access to wireframing kits and community-made plugins to speed up design workflows.
 
+## Benefits of Wireframing
+- Clarifies requirements early
+- Reduces unnecessary cost
+- Guides UI development
+- Support Agile development
+- Encourges user-centric thinking
+
+### How Wireframes guide design process
+Wireframes simplify complex ideas, speed up design decisions, and make communication smoother between designers, developers, and stakeholders. They’re essential blueprints that keep everyone on the same page—literally and figuratively—throughout the software development lifecycle.
+
+
