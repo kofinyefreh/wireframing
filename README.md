@@ -43,4 +43,21 @@ There are numerous wireframing tools out there but the recommentded one is Figma
 ### How Wireframes guide design process
 Wireframes simplify complex ideas, speed up design decisions, and make communication smoother between designers, developers, and stakeholders. They’re essential blueprints that keep everyone on the same page—literally and figuratively—throughout the software development lifecycle.
 
+## Wireframing In Practice
+A team was building a **hotel booking platform**. Before development, they used **Figma** to create simple wireframes of the booking process—from searching for hotels to making payments.
+### Problems Found in the Wireframes:
+ - **Cluttered Checkout Page**: Everything (booking info, payment, guest details) was on one screen—users felt overwhelmed.
+ - **No Easy Way to Edit Bookings**: Users couldn’t go back and change dates or room options easily.
+ - **Confusing Buttons**: Labels like "Continue" weren’t clear—users didn’t know what to expect next.
+### How They Were Fixed:
+- Split the checkout into clear steps with a progress bar.
+- Added a "Modify Booking" button to let users go back.
+- Changed button text to clear actions like *“Proceed to Payment”*.
+
+### Final Impact:
+- The booking flow became easier to use.
+- Fewer user mistakes and complaints after launch.
+- Faster development with fewer changes needed later.
+
+### Through Wireframing, the team spot and fix user experience problems early. It saved time, reduced confusion, and led to a smoother, more user-friendly product.
 
