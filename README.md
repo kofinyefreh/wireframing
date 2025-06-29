@@ -17,7 +17,7 @@ A wireframe must contain the follwing key elements
 
 ## Types of Wireframes
 ### Low-Fidelity
-Low-Fidelity wireframes are simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+Low-fidelity wireframes are simple, rough sketches or digital layouts that outline the basic structure and layout of a user interface (UI) without detailed design elements - more like the skeleton of how the entire platform will look like.
 ### High-Fidelity
 High-fidelity wireframes are more detailed and refined versions, often closer to the final design, including more specific layout and design elements. This is an enhanced form of the low-fidelity wireframes
 
